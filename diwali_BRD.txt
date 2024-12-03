@@ -1,0 +1,50 @@
+Medium: Load the dataset into a Pandas DataFrame and display the summary statistics.
+Medium: Filter the dataset to show only customers who are married and aged between 30 and 40.
+Medium: Count the number of unique products sold and visualize this in a bar chart.
+Medium: Find the average order amount for each product category and create a corresponding bar plot.
+Medium: Analyze the average order amounts by gender and display the results using a grouped bar chart.
+Medium: Create a new column that categorizes customers based on their age group (e.g., "18-25", "26-35", etc.).
+Medium: Determine the total sales amount generated from customers in each state and visualize the findings in a map (if geographic data is available).
+Medium: Identify the customer with the highest number of orders and display their details.
+Medium: Analyze the relationship between age and order amount using a scatter plot.
+Medium: Create a time series plot showing the total number of orders over the past year (if date data is available).
+Hard: Perform a cohort analysis to determine customer retention rates over different time periods.
+Hard: Investigate the effect of promotions on order amounts by comparing sales before and after a specific promotion using statistical tests.
+Hard: Create a function to segment customers based on their spending behavior (e.g., high, medium, low spenders) and visualize these segments.
+Hard: Analyze the purchasing trends across different age groups to identify the most profitable segment and present your findings.
+Hard: Perform a regression analysis to predict future order amounts based on customer demographics and purchase history.
+Hard: Evaluate the effectiveness of a loyalty program by comparing average order amounts of members versus non-members using visualizations.
+Hard: Investigate the churn rate of customers by analyzing their order history and visualize the trends over time.
+Hard: Create a decision tree model to classify customers based on their likelihood to make a purchase.
+Hard: Assess the distribution of order amounts and identify outliers; visualize the results using a box plot.
+Hard: Perform hypothesis testing to compare the average order amounts between two different customer segments.
+Medium: Plot the top 5 product categories by total sales amount in a horizontal bar chart.
+Medium: Create a heatmap showing the correlation between customer attributes (age, order amount, etc.) and visualize the results.
+Medium: Determine how many customers made repeat purchases within a specific time frame (e.g., 30 days) and visualize the results.
+Medium: Analyze the order fulfillment time across different product categories and create a box plot to visualize the differences.
+Medium: Examine the average order amount for each occupation and display these findings in a bar chart.
+Hard: Use clustering techniques to identify customer segments based on purchasing behavior and visualize these clusters.
+Hard: Build a predictive model to forecast sales based on historical order data using a time series analysis.
+Hard: Evaluate the return on investment (ROI) of marketing campaigns by comparing the cost of campaigns against resulting sales increases.
+Hard: Analyze the frequency of product returns and their impact on overall sales, then visualize the findings.
+Hard: Create a dashboard that summarizes key performance indicators related to customer orders, including trends over time.
+Medium: Find the average order amount for customers who ordered a specific product ID and visualize this data.
+Medium: Investigate how order amounts differ by customer age group and display the findings in a stacked bar chart.
+Medium: Analyze customer demographics to determine if there are any significant differences in purchasing behavior between genders.
+Medium: Visualize the percentage of total sales by each product category in a pie chart.
+Medium: Determine the average time between a customer's first and last order and visualize this data using a histogram.
+Hard: Conduct a market basket analysis to identify products that are frequently purchased together.
+Hard: Implement a survival analysis to predict how long customers will continue to make purchases based on their order history.
+Hard: Analyze the impact of customer service interactions on future order amounts and visualize the correlations.
+Hard: Use regression analysis to explore the relationship between advertising spend and order amounts, presenting the results in a visual format.
+Hard: Build a machine learning model to predict customer churn based on their order history and demographic data.
+Medium: Calculate the total number of orders and total revenue for each month and visualize this with a line chart.
+Medium: Analyze the demographic trends of new customers versus returning customers and visualize the findings.
+Medium: Investigate the effect of different payment methods on order amounts and present the results visually.
+Medium: Find the average age of customers in each product category and display this information in a bar chart.
+Hard: Analyze seasonal trends in customer orders and visualize the differences between peak and off-peak seasons.
+Hard: Assess the effectiveness of different marketing channels by comparing their conversion rates using statistical analysis.
+Hard: Create an A/B testing framework to measure the impact of different marketing strategies on order amounts.
+Hard: Investigate the relationship between customer reviews and order amounts, visualizing any significant correlations.
+Hard: Conduct a detailed analysis of customer loyalty by examining the frequency of repeat purchases and average order amounts.
+Hard: Build an interactive dashboard using a library like Plotly to visualize customer metrics in real-time.
